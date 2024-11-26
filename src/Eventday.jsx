@@ -4,7 +4,6 @@ import githubLogo from './githubLogo.svg';
 import { Link } from 'react-router-dom';
 
 const Eventday = ({ name, day, month }) => {
-  // useState Hooks
   const [state, setState] = useState({
     seconds: 0,
     hours: 0,

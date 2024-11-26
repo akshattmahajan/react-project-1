@@ -13,9 +13,7 @@ const Generate = () => {
     if (name.trim() === '') {
       setError('Please fill out the event name');
       return;
-    }
-    
-    setError(''); // Clear the error if the name is filled
+
     setLink(`https://countdown-generator.netlify.app/event/${name}/${day}/${month}`);
   };
   return (

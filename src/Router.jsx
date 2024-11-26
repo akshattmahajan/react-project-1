@@ -12,3 +12,4 @@ const Router = (props) => {
 };
 
 export default Router;
+//used for routing 
