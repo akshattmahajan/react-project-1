@@ -38,4 +38,4 @@ Try out the Countdown Generator app by visiting the [live demo](https://countdow
 - Netlify: Deployed the app to provide a seamless live demo experience.
 
 
-For any inquiries, contact us at ahsant2709@gmail.com.
+For any inquiries, contact us at akshatmahajan21@gmail.com
